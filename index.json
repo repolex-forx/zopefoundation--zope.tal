@@ -3,6 +3,11 @@
   "repo": "zope.tal",
   "versions": [
     {
+      "commit": "ae8fd91d9ee289f31a30cc7a435fd077dface481",
+      "tag": "backups/monolithic-zope3@75193",
+      "parsed_at": "2026-11-22T01:03:39.559367+00:00"
+    },
+    {
       "commit": "b9ed2eebff9a07c95defd4fbdbb4836235a56062",
       "tag": "",
       "parsed_at": "2026-11-06T01:35:03.842407+00:00"
